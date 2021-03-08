@@ -111,7 +111,7 @@ let questions = [
   },
   {
     question: "Q12. A 12-year-old boy presents with multiple colonic polyps. Histologically, all of the polyps show an overgrowth of nondysplastic epithelium on an arborizing smooth muscle core. The branching smooth muscle seems to derive from the muscularis mucosae. All of the following statements about this patient are correct except?",
-    choice1: "The patient is liekly to have mucocutaneous pigmentation",
+    choice1: "The patient is likely to have mucocutaneous pigmentation",
     choice2: "The patient is likely to have a germline mutation in the LKB1/STK11 tumour suppressor gene",
     choice3: "The polyp has no risk of progression to malignancy",
     choice4: "If this patient were female, she would have an increased risk of breast cancer and gynecological malignancy",
@@ -123,7 +123,7 @@ let questions = [
     choice1: "The interstitial cell of Cajal s consideredthe cell of origin for the tumour",
     choice2: "A gain of function mutation in KIT or PDGFR gene may exist",
     choice3: "Only those tumours with a KIT mutation respond to Gleevec (imatinib) therapy",
-    choice4: "Mitotic rate and tumour size are the 2 main features that determine the risk of aggresive behaviour",
+    choice4: "Mitotic rate and tumour size are the 2 main features that determine the risk of aggressive behaviour",
 	choice5: "Histologic criteria for benign and malignant GIST are identical in different parts of the gastrointestinal tract",
     answer: 5
   },
@@ -191,7 +191,7 @@ let questions = [
     answer: 3
   },
   {
-    question: "Q21. Which of the following is the most common cause of segmental colitis confined to the sigmoid coln?",
+    question: "Q21. Which of the following is the most common cause of segmental colitis confined to the sigmoid colon?",
     choice1: "Ulcerative colitis",
     choice2: "Crohn colitis",
     choice3: "Diverticular disease",
@@ -210,7 +210,7 @@ let questions = [
   },
   {
     question: "Q23. All of the following entities can show increased epithelial apoptosis except?",
-    choice1: "Acitve ulcerative colitis",
+    choice1: "Active ulcerative colitis",
     choice2: "Phospho soda bowel preparation",
     choice3: "An organ transplant patient using mycophenylate mofetil (MMF)",
     choice4: "Patient using nonsteroidal antiinflammatory drugs (NSAIDs)",
@@ -276,7 +276,7 @@ let questions = [
     choice1: "The grade of dysplasia in the tumour epithelium",
     choice2: "Whether there is mucin dissecting into the muscularis propria",
     choice3: "Whether there is mucinous epithelium in the extra-appendiceal mucin",
-    choice4: "Whethet the margin of resection is involved",
+    choice4: "Whether the margin of resection is involved",
 	choice5: "Whether the musclaris mucosae has been breached by mucinous epithelium",
     answer: 3
   },
