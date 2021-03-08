@@ -38,7 +38,7 @@ let questions = [
     answer: 3
   },
    {
-    question: "Q4. Autoimmune polyendocrinopathy (AP) syndrome type 1 includes all of the following?",
+    question: "Q4. Autoimmune polyendocrinopathy (AP) syndrome type 1 includes all of the following except?",
     choice1: "Hashimoto thyroiditis",
     choice2: "Adrenal cortical insufficiency",
     choice3: "Hypoparathyroidism",
