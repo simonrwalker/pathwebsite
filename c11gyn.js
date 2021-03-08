@@ -36,8 +36,8 @@ let questions = [
   },
   {
     question: "Q4. When examining a hysterectomy specimen labeled 'fibroid uterus' a single lesion in the myometrium is identified. A diagnosis of uterine perivascular epithelioid cell tumour (PEComa) is made. Which of the following statements is NOT true?",
-    choice1: "PEComa is morphologically and immunohistochemically similar to epithelioid angiomyolipoma, lymphangioleiomyoma and celar cell 'sugar' tumours",
-    choice2: "Patchy HMB-45 positivity is usualyl seen in PEComa",
+    choice1: "PEComa is morphologically and immunohistochemically similar to epithelioid angiomyolipoma, lymphangioleiomyoma and clear cell 'sugar' tumours",
+    choice2: "Patchy HMB-45 positivity is usually seen in PEComa",
     choice3: "PEComa can be positive for muscle markers such as smooth muscle actin",
     choice4: "All PEComas are considered malignant neoplasms",
     answer: 4
@@ -95,14 +95,14 @@ let questions = [
     choice1: "Its clinical behaviour is similar to carcinosarcoma",
     choice2: "Deep myometrial invasion is an adverse prognostic factor",
     choice3: "It is staged in the same way as endometrial stromal sarcoma",
-    choice4: "The presence of sex cord-like elements is an edverse prognostic factor",
+    choice4: "The presence of sex cord-like elements is an adverse prognostic factor",
     answer: 2
   },
   {
     question: "Q12. An 18-year-old woman has been diagnosed with a low grade squamous intraepithelial lesion. Which of the following statements is NOT true?",
     choice1: "Human papillomavirus (HPV) types 6 or 11 may be responsible for the lesion",
     choice2: "HPV types 16 or 18 may be responsible for the lesion",
-    choice3: "As this is a presursor lesion to squamous cell carcinoma, the patient requires cone biopsy as the next step of management",
+    choice3: "As this is a precursor lesion to squamous cell carcinoma, the patient requires cone biopsy as the next step of management",
     choice4: "The presence of koilocytic change is seen with this diagnosis",
     answer: 3
   },
