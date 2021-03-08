@@ -364,7 +364,7 @@ let questions = [
   {
     question: "Q40. Which of the following disease and affected vessel groupings is correct?",
     choice1: "Giant cell arteritis -- muscular and elastic arteries only",
-    choice2: "Classic polyarteritis nodosa (PAN) -- musuclar arteries, veins and capillaries",
+    choice2: "Classic polyarteritis nodosa (PAN) -- muscular arteries, veins and capillaries",
     choice3: "Buerger disease - leg arteries only",
     choice4: "Buerger disease - leg arteries, veins and capillaries",
 	choice5: "Answers a and c only",
