@@ -41,14 +41,14 @@ let questions = [
     question: "Q4. Which of the following is NOT true of Warthin tumours?",
     choice1: "Solid nodules composed of oncocytic cells that may mimic oncocytoma are occasionally seen",
     choice2: "Squamous metaplasia with atypia when infected may mimic squamous cell carcinoma, particularly with specimens from fine-needle aspiration (FNA) biopsy",
-    choice3: "Malignancy may develop in either the epithelial or lymhphoid component",
+    choice3: "Malignancy may develop in either the epithelial or lymphoid component",
     choice4: "Occasional goblet cells may be present within the epithelium, raising the differential diagnosis of oncocytic mucoepidermoid carcinoma",
 	choice5: "Stroma poor variants (epithelial component greater or equal to 70-80%) have a higher recurrence rate than typical cases",
     answer: 5
   },
   {
     question: "Q5. A 44-year-old man presents with a hard palate mass that he has had for 6 months. He thinks it has gradually enlarged during that period. A specimen from an incisional biopsy shows a solid proliferation of cells with eosinophilic cytoplasm and eccentrically located mildly atypical nuclei, consistent with hyaline or plasmacytoid myoepithelial cells. which of the following statements is true?",
-    choice1: "It is important to notify the clinican that low grade myoepithelial carcinoma cannot be ruled out until the tumour is removed and assessed for invasive growth",
+    choice1: "It is important to notify the clinician that low grade myoepithelial carcinoma cannot be ruled out until the tumour is removed and assessed for invasive growth",
     choice2: "Myoepithelial cells of this type are seen in myoepithelioma, myoepithelial carcinoma, pleomorphic adenoma and adenoid cystic carcinoma",
     choice3: "Myoepitheliomas will almost always stain positively for pan-keratin, smooth muscle myosin heavy chain, smooth muscle actin and desmin",
     choice4: "S100 rarely stains tumour cells in myoepithelioma",
@@ -110,7 +110,7 @@ let questions = [
     answer: 4
   },
   {
-    question: "Q12. A 51-year-old man presents with a cystic mass just anterior to the sternocleidomastoid muscle in the upper neck. Clinically and radiologically, this is felt to be consistent with a branchial cleft cyst. Excision shows variable morphology of the cyst lining, with some areas lined by multilayered maturing squamous epithlium with mild atypia and some regions of frank squamous cell carcinoma. Which of the following statements is NOT true with respect to this situation?",
+    question: "Q12. A 51-year-old man presents with a cystic mass just anterior to the sternocleidomastoid muscle in the upper neck. Clinically and radiologically, this is felt to be consistent with a branchial cleft cyst. Excision shows variable morphology of the cyst lining, with some areas lined by multilayered maturing squamous epithelium with mild atypia and some regions of frank squamous cell carcinoma. Which of the following statements is NOT true with respect to this situation?",
     choice1: "Branchial cleft cysts are less common than metastatic squamous cell carcinoma in this age group",
     choice2: "Malignant transformation of a branchial cleft cyst is an uncommon but well recognized complication",
     choice3: "Staining for p16 would be supportive evidence of origin from the oropharynx",
@@ -192,7 +192,7 @@ let questions = [
   },
   {
     question: "Q21. Which of the following statements about hematopoietic neoplasms of the upper aerodigestive tract mucosa is correct?",
-    choice1: "Diffuse large B cell lymphoma is more commonly cound on the nasal septum than in the oropharynx",
+    choice1: "Diffuse large B cell lymphoma is more commonly found on the nasal septum than in the oropharynx",
     choice2: "Extramedullary plasmacytoma is not associated with systemic plasma cell neoplasms",
     choice3: "Nasal natural killer/T cell lymphoma is typically negative on in situ hybridization for Epstein-Barr virus-encoded RNA (EBER)",
     choice4: "Nasal natural killer/T cell lymphoma should be considered in the differential diagnosis of destructive, inflammatory conditions of the nasal and oral cavities",
@@ -200,7 +200,7 @@ let questions = [
     answer: 4
   },
   {
-    question: "Q22. You receive a biopsy specimen from the lining of a cyst surrounding the crown of a mandibular third molar tooth that contains inflamed, nondysplastic squamous epithelium. Which of the following entities can be excluded?",
+    question: "Q22. You receive a biopsy specimen from the lining of a cyst surrounding the crown of a mandibular third molar tooth that contains inflammed, nondysplastic squamous epithelium. Which of the following entities can be excluded?",
     choice1: "Radicular cyst",
     choice2: "Conventional type ameloblastoma",
     choice3: "Dentigerous cyst",
@@ -209,7 +209,7 @@ let questions = [
     answer: 1
   },
   {
-    question: "Q23. Which of the following statements is NOT true regarding ossfying fibroma of the jaw?",
+    question: "Q23. Which of the following statements is NOT true regarding ossifying fibroma of the jaw?",
     choice1: "Clinical and radiographic correlation are crucial when attempting to distinguish this entity from other fibroosseous conditions",
     choice2: "It is considered a neoplasm",
     choice3: "Aggressive/active variants are more common in adults than children",
