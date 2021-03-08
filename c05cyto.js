@@ -58,17 +58,17 @@ let questions = [
   {
     question: "Q6. A cervical smear from a 40-year-old female contains rare groups of benign-appearing endometrial cell clusters. Which category in the Bethesda system should be used to reflect this finding?",
     choice1: "Negative for squamous intraepithelial lesion of malignancy",
-    choice2: "Atypical endometrial glandualr cells, not otherwise specified",
-    choice3: "Atypical endometrial glandualr cells, favour neoplastic",
+    choice2: "Atypical endometrial glandular cells, not otherwise specified",
+    choice3: "Atypical endometrial glandular cells, favour neoplastic",
     choice4: "Adenocarcinoma, endometrial",
 	choice5: "Other (endometrial cells in a woman >= 40 years of age)",
     answer: 1
   },
   {
-    question: "Q7. A cervical smear form a 45-year-old female contains rare groups of benign-appearing endometrial cell clusters. Which category in the Bethesda system should be used to reflect this finding ?",
+    question: "Q7. A cervical smear form a 45-year-old female contains rare groups of benign-appearing endometrial cell clusters. Which category in the Bethesda system should be used to reflect this finding?",
     choice1: "Negative for squamous intraepithelial lesion of malignancy",
-    choice2: "Atypical endometrial glandualr cells, not otherwise specified",
-    choice3: "Atypical endometrial glandualr cells, favour neoplastic",
+    choice2: "Atypical endometrial glandular cells, not otherwise specified",
+    choice3: "Atypical endometrial glandular cells, favour neoplastic",
     choice4: "Adenocarcinoma, endometrial",
 	choice5: "Other (endometrial cells in a woman >= 45 years of age)",
     answer: 5
@@ -285,7 +285,7 @@ let questions = [
     choice1: "Small cell carcinoma",
     choice2: "Adenocarcinoma",
     choice3: "Squamous cell carcinoma",
-    choice4: "Largecell carcinoma",
+    choice4: "Large cell carcinoma",
 	choice5: "Sarcomatoid carcinoma",
     answer: 2
   },
