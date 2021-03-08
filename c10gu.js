@@ -29,7 +29,7 @@ let questions = [
     answer: 4
   },
   {
-    question: "Q3. A prostate needle biopsy speciemn contains a conventional prostatic adenocarcinoma with the following Gleason patterns: pattern 4 about 65%, pattern 3 about 30% and pattern 5 about 5%. What is the Gleason score?",
+    question: "Q3. A prostate needle biopsy specimen contains a conventional prostatic adenocarcinoma with the following Gleason patterns: pattern 4 about 65%, pattern 3 about 30% and pattern 5 about 5%. What is the Gleason score?",
     choice1: "8",
     choice2: "7",
     choice3: "7 with tertiary pattern 5",
@@ -105,7 +105,7 @@ let questions = [
     choice1: "Orthokeratotic hyperkeratosis",
     choice2: "Atrophy of the epidermis",
     choice3: "Homogenization of collagen of the upper dermis",
-    choice4: "Interstitial hemmorhage and hemosiderin deposition",
+    choice4: "Interstitial hemorrhage and hemosiderin deposition",
 	choice5: "Lymphoplasmacytic lichenoid inflammatory infiltrate",
     answer: 4
   },
@@ -155,7 +155,7 @@ let questions = [
     answer: 3
   },
   {
-    question: "Q17. Patients with which variant of uturothelial carcinoma below have the best prognosis?",
+    question: "Q17. Patients with which variant of urothelial carcinoma below have the best prognosis?",
     choice1: "Sarcomatoid urothelial carcinoma",
     choice2: "Urothelial carcinoma with syncytiotrophoblasts",
     choice3: "Micropapillary urothelial carcinoma",
@@ -182,11 +182,11 @@ let questions = [
     answer: 1
   },
   {
-    question: "Q20. Which is not a mimic of invasive protatic adenocarcinoma?",
+    question: "Q20. Which is not a mimic of invasive prostatic adenocarcinoma?",
     choice1: "Glandular atrophy",
     choice2: "Atypical adenomatous hyperplasia",
     choice3: "Cowper glands",
-    choice4: "Granulomaotus prostatitis",
+    choice4: "Granulomatous prostatitis",
 	choice5: "Corpora amylacea",
     answer: 5
   },
@@ -200,7 +200,7 @@ let questions = [
     answer: 4
   },
   {
-    question: "Q22. On smear preparations recieved with male fertility biopsy specimens, which 2 patterns would you expect to show spermatozoa?",
+    question: "Q22. On smear preparations received with male fertility biopsy specimens, which 2 patterns would you expect to show spermatozoa?",
     choice1: "Germ cell maturation arrest and hypospermatogenesis",
     choice2: "Sertoli cell only and germ cell maturation arrest",
     choice3: "Hypospermatogenesis and obstruction of sperm excretory ducts",
