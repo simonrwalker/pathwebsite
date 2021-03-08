@@ -39,11 +39,11 @@ let questions = [
   },
    {
     question: "Q4. Autoimmune polyendocrinopathy (AP) syndrome type 1 includes all of the following?",
-    choice1: "Hashimoto thyroiditiss",
+    choice1: "Hashimoto thyroiditis",
     choice2: "Adrenal cortical insufficiency",
     choice3: "Hypoparathyroidism",
     choice4: "Chronic mucocutaneous candidiasis",
-	choice5: "Mutatin of AIRE gene",
+	choice5: "Mutation of AIRE gene",
     answer: 1
   },
   {
@@ -61,15 +61,15 @@ let questions = [
     choice2: "It may disseminate via lymphatics",
     choice3: "It is an autoimmune disease",
     choice4: "It is associated with an elevated TSH",
-	choice5: "It is usually 'cold' ona radioiodine scan",
+	choice5: "It is usually 'cold' on a radioiodine scan",
     answer: 3
   },
   {
     question: "Q7. The following is true about solitary thyroid nodules?",
-    choice1: "they affect 1-10% of the adult population",
-    choice2: "They are more liekly to be neoplastic than multiple nodules",
+    choice1: "They affect 1-10% of the adult population",
+    choice2: "They are more likely to be neoplastic than multiple nodules",
     choice3: "They are less likely to be neoplastic in younger patients",
-    choice4: "Functioning nodules are more liekly to be benign",
+    choice4: "Functioning nodules are more likely to be benign",
 	choice5: "A history of radiation exposure is associated with increased risk of malignancy",
     answer: 3
   },
@@ -102,7 +102,7 @@ let questions = [
   },
   {
     question: "Q11. All of the following statements about medullary thyroid carcinoma are correct except?",
-    choice1: "RET protooncogene mutations occur in familial and sporadic tumours",
+    choice1: "RET proto-oncogene mutations occur in familial and sporadic tumours",
     choice2: "Approximately 70% of cases are sporadic",
     choice3: "Patients with MEN2A associated tumours have a worse prognosis than those with MEN2B associated tumours",
     choice4: "The neoplastic cells show neuroendocrine cytological features and positive immunohistochemical staining for chromogrannin",
@@ -114,7 +114,7 @@ let questions = [
     choice1: "Parathyroid hyperplasia is the most common etiology",
     choice2: "It affects women more than men",
     choice3: "It can be due to decreased sensitivity to calcium",
-    choice4: "MEN1 gene mutatons may occur in fmailial and in sporadic parathyroid adenomas",
+    choice4: "MEN1 gene mutatons may occur in familial and in sporadic parathyroid adenomas",
 	choice5: "It can be associated with osteitis fibrosa cystica",
     answer: 1
   },
@@ -137,7 +137,7 @@ let questions = [
     answer: 5
   },
   {
-    question: "Q15. The most common cause of the endogenous Cushing syndrome is?",
+    question: "Q15. The most common cause of the endogenous Cushing syndrome is...?",
     choice1: "Adrenal cortical adenoma",
     choice2: "Adrenal cortical carcinoma",
     choice3: "Macronodular hyperplasia",
