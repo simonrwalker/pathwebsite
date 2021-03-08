@@ -92,7 +92,7 @@ let questions = [
     answer: 1
   },
   {
-    question: "Q10. A 19-year-old male is found dead in his secure apartment witha  single incised wound to the lateral neck with multiple hesitation marks surrounding the wound ,which transects the jugular vein. What is the most likely mechanism and manner of death?",
+    question: "Q10. A 19-year-old male is found dead in his secure apartment witha  single incised wound to the lateral neck with multiple hesitation marks surrounding the wound, which transects the jugular vein. What is the most likely mechanism and manner of death?",
     choice1: "Depression; natural",
     choice2: "Incised wound of neck; homicide",
     choice3: "Incised wound of neck; suicide",
@@ -101,7 +101,7 @@ let questions = [
     answer: 4
   },
   {
-    question: "Q11. Tache noire refers to?",
+    question: "Q11. Tache noire refers to...?",
     choice1: "Retinal hemorrhages associated with blunt head trauma",
     choice2: "Linear discolouration of the eyes due to post-mortem drying",
     choice3: "Multiple small red-purple hemorrhages on the skin",
@@ -119,7 +119,7 @@ let questions = [
     answer: 3
   },
   {
-    question: "Q13. Cherry red lividity is classically associated with carcon monoxide poisoning. which of the following scenarios can also be associated with cherry red lividity?",
+    question: "Q13. Cherry red lividity is classically associated with carbon monoxide poisoning. which of the following scenarios can also be associated with cherry red lividity?",
     choice1: "Hyperthermia",
     choice2: "Hypothermia",
     choice3: "Electrocution",
@@ -173,7 +173,7 @@ let questions = [
     answer: 4
   },
   {
-    question: "Q19. Which of the following is not true regading contact gunshot wounds?",
+    question: "Q19. Which of the following is not true regarding contact gunshot wounds?",
     choice1: "The barrel of the gun is in contact with the skin",
     choice2: "A muzzle imprint may be present",
     choice3: "There is stippling around the outside of the wound",
